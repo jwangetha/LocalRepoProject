@@ -1,0 +1,35 @@
+# Ignore system/user directories
+AppData/
+Cookies/
+Local Settings/
+My Documents/
+OneDrive/
+NTUSER.DAT*
+Pictures/
+Videos/
+Downloads/
+Desktop/
+Favorites/
+Links/
+Music/
+Searches/
+WPS Cloud Files/
+WuTerminal/
+
+# Ignore system files and logs
+*.log
+*.bak
+*.ini
+*.dat
+*.dll
+*.exe
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore other common clutter
+Thumbs.db
+Desktop.ini
